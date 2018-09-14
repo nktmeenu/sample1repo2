@@ -1,1 +1,3 @@
-index.html  sample.txt	test1.xml
+Hello World!!
+How ae you today?
+How is the weather?
