@@ -1,4 +1,4 @@
-#!/bin/ksh
+#!/bin/bash
 
 export HOME=/opt/Informatica9/infa9
 
